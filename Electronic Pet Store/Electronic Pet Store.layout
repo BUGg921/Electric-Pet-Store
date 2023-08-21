@@ -1,4 +1,5 @@
 [Editors]
+<<<<<<< HEAD
 Order = 1,2,3,4
 Focused = 4
 
@@ -29,3 +30,6 @@ CursorCol = 2
 CursorRow = 6
 TopLine = 1
 LeftChar = 1
+=======
+Order = 
+>>>>>>> f9d75fb06045d6473d6163e98b3589dfc0e889f0

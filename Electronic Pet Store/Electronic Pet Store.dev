@@ -1,7 +1,11 @@
 [Project]
 filename = Electronic Pet Store.dev
 name = Electronic Pet Store
+<<<<<<< HEAD
 UnitCount = 5
+=======
+UnitCount = 1
+>>>>>>> f9d75fb06045d6473d6163e98b3589dfc0e889f0
 Type = 1
 Ver = 3
 ObjFiles = 
@@ -73,6 +77,7 @@ AutoIncBuildNr = 0
 SyncProduct = 1
 
 
+<<<<<<< HEAD
 [Unit2]
 FileName = ElectronicPet.h
 Folder = 
@@ -121,6 +126,8 @@ BuildCmd =
 DetectEncoding = 1
 
 
+=======
+>>>>>>> f9d75fb06045d6473d6163e98b3589dfc0e889f0
 [CompilerSettings]
 cc_cmd_opt_optimize = 2
 cc_cmd_opt_use_pipe = on
